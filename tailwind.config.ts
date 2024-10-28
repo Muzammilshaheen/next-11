@@ -1,4 +1,4 @@
-import svgToDataUri from "mini-svg-data-uri";
+import svgToDataUri from "mini-svg-data-uri";n
 import { Config } from "tailwindcss";
 import { PluginAPI } from "tailwindcss/types/config";
 
